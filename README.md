@@ -2,7 +2,7 @@
 
 #### Visionary fast-learning developer with big desire to *create*💫 Charmed by programming and what code can do to help people✨
 
-- 🌱 I’m currently learning Flask 🌶️
+- 🌱 I’m currently learning parsing using Beautiful Soup 🐸
 - 📫 How to reach me: [telegram](https://t.me/smetanii) and KaterinaLyashenco@yandex.com
 - ✨ Pronouns: She\Her
 
