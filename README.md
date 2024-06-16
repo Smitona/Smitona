@@ -16,4 +16,4 @@
 
 </div>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Smitona&theme=dark)](https://github.com/Smitona/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Smitona&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
