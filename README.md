@@ -15,3 +15,5 @@
   <img src="https://img.shields.io/badge/Celery-black?style=for-the-badge&logo=Celery&logoColor=darkturquoise"/> <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=white/"> <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=FastAPI&logoColor=SpringGreen"/> <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=SpringGreen"/> 
 
 </div>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Smitona&theme=dark)](https://github.com/Smitona/leetcode-stats)
