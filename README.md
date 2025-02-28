@@ -2,7 +2,7 @@
 
 #### Visionary fast-learning developer with big desire to *create*💫Charmed by programming and what code can do to help people✨
 
-- 🌱 I’m currently working on pet projects 🐸
+- 🌱 I’m currently working on pet projects and learning new skills 🐸
 - 📫 How to reach me: [telegram](https://t.me/smitona) and KaterinaLyashenco@yandex.com
 - ✨ Pronouns: She\Her
 
